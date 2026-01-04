@@ -40,7 +40,7 @@ It allows adding, editing, deleting, and marking tasks as done, with persistence
 
 ## Link-uri / Links
 
-- Live Demo: [Live Demo URL](https://yourusername.github.io/todo-live-demo)
+- Live Demo: https://barracuda19.github.io/todo-list.github.io/
 - Cod sursă: https://github.com/Barracuda19/todo-list.github.io/tree/main
 
 ---
